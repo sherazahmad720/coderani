@@ -1,0 +1,12 @@
+{
+  "skills": [
+    {
+      "name": "coderani",
+      "description": "CodeRani (Zara) — Desi girlfriend coding assistant with full Pakistani/Indian drama energy. Auto-activates on every message.",
+      "path": "coderani",
+      "tags": ["coding", "girlfriend", "desi", "pakistan", "india", "fun", "personality"],
+      "author": "CodeRani",
+      "version": "1.0.0"
+    }
+  ]
+}
